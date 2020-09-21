@@ -1,0 +1,289 @@
+{
+  "project_info": {
+    "project_number": "1087730653023",
+    "firebase_url": "https://chsone-1480339082153.firebaseio.com",
+    "project_id": "chsone-1480339082153",
+    "storage_bucket": "chsone-1480339082153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087730653023:android:a344863a3a0900109a48ea",
+        "android_client_info": {
+          "package_name": "com.chsone.vizlog.gatekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087730653023-vln0sjlv3fi0plvrej7g3otractqf5et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chsone.vizlog.gatekeeper",
+            "certificate_hash": "078f23e4f08275765944a19fd8de15bb0444767e"
+          }
+        },
+        {
+          "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIGn9YUrAivtbkeyKma0O3G3vhuRDFys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087730653023-69r6bakkad6poh9b5dlsrl00k8urelr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubeone.app",
+                "app_store_id": "1492930711"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087730653023:android:32fedbd1b8f10cff9a48ea",
+        "android_client_info": {
+          "package_name": "com.chsone.vizlog.member"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087730653023-8q1rac8pevopk21rn1vj3ket2ktdih95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chsone.vizlog.member",
+            "certificate_hash": "078f23e4f08275765944a19fd8de15bb0444767e"
+          }
+        },
+        {
+          "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIGn9YUrAivtbkeyKma0O3G3vhuRDFys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087730653023-69r6bakkad6poh9b5dlsrl00k8urelr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubeone.app",
+                "app_store_id": "1492930711"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087730653023:android:28bf089742570fdb9a48ea",
+        "android_client_info": {
+          "package_name": "com.cubeone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087730653023-8m7umgn9pnjm1bdv7mi87qhnk6q0vk33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubeone.app",
+            "certificate_hash": "078f23e4f08275765944a19fd8de15bb0444767e"
+          }
+        },
+        {
+          "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIGn9YUrAivtbkeyKma0O3G3vhuRDFys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087730653023-69r6bakkad6poh9b5dlsrl00k8urelr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubeone.app",
+                "app_store_id": "1492930711"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087730653023:android:f4119b061f5793c49a48ea",
+        "android_client_info": {
+          "package_name": "com.cubeone.hrms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIGn9YUrAivtbkeyKma0O3G3vhuRDFys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087730653023-69r6bakkad6poh9b5dlsrl00k8urelr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubeone.app",
+                "app_store_id": "1492930711"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087730653023:android:a4cfdcb9d3179619",
+        "android_client_info": {
+          "package_name": "in.chsone.member"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087730653023-9m09eofbcp0gmh5qupguri361n9biiir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.chsone.member",
+            "certificate_hash": "078f23e4f08275765944a19fd8de15bb0444767e"
+          }
+        },
+        {
+          "client_id": "1087730653023-1fovaou854l5cfva18udkufkh4q0fogi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.chsone.member",
+            "certificate_hash": "8fd67a92e1dca945d3e6cc3f2809e38d8cdec469"
+          }
+        },
+        {
+          "client_id": "1087730653023-okdact8ut56i8as5h6lfrlqud8m2b8cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.chsone.member",
+            "certificate_hash": "4b605c848d00e340b0345ca44128a3583de26ff3"
+          }
+        },
+        {
+          "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIGn9YUrAivtbkeyKma0O3G3vhuRDFys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087730653023-69r6bakkad6poh9b5dlsrl00k8urelr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubeone.app",
+                "app_store_id": "1492930711"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087730653023:android:f835f591b39c354e9a48ea",
+        "android_client_info": {
+          "package_name": "in.chsone.reportingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087730653023-br35chvhg51ra9ljegd4u3lka0krkqqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.chsone.reportingapp",
+            "certificate_hash": "7ad1cba5b813a15a6d3bde49bbfc078008a9c644"
+          }
+        },
+        {
+          "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIGn9YUrAivtbkeyKma0O3G3vhuRDFys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087730653023-oi06s0p21qgqnklca5a8htmh5anvf8fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087730653023-69r6bakkad6poh9b5dlsrl00k8urelr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubeone.app",
+                "app_store_id": "1492930711"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

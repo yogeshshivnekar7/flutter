@@ -1,0 +1,32 @@
+<svg height="206.00000000000003" width="580" xmlns="http://www.w3.org/2000/svg">
+    <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+    <g>
+        <title>background</title>
+        <rect fill="none" height="208" id="canvas_background" width="582" x="-1" y="-1" />
+        <g display="none" id="canvasGrid">
+            <rect fill="url(#gridpattern)" height="100%" id="svg_1" stroke-width="0" width="100%"
+                x="0" y="0" />
+        </g>
+    </g>
+    <g>
+        <title>Layer 1</title>
+        <metadata id="svg_201">image/svg+xml</metadata>
+        <defs>
+            <clipPath clipPathUnits="userSpaceOnUse" id="svg_135">
+                <path d="m13520.000977,-8386.645508l800,0l0,-800l-800,0l0,800z" id="svg_200" />
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="svg_121">
+                <path d="m6252.674164,-8834.059616l800,0l0,-800l-800,0l0,800z" id="svg_199" />
+            </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="svg_106">
+                <path d="m13520.000977,-8386.645508l800,0l0,-800l-800,0l0,800z" id="svg_198" />
+            </clipPath>
+        </defs>
+        <g id="svg_131" stroke="null"
+            transform="matrix(0.9236626778759461,0,0,-0.9236626778759461,-7135.67370973131,-7038.597350211519) ">
+            <path
+                d="m7719.536299,-7919.378443l0,9.333l44,0l0,69.334l20.667,0l0,115.333l9.333,0l0,8l24,0l0,-7.333l8.667,0l0,-67.334l17.333,0l0,10.667l43.333,0l0,14.667l6,0l0,102.666l8.667,0l0,12l6.667,0l0,15.334l6,0l0,-14.667l6,0l0,-13.333l10,0l0,-111.334l28,0l0,22.667l30.666,0l0,-25.334l17.334,0l0,54.001l16.666,0l0,-28.667l6,0l0,-33.334l0,-6l22.667,0l0,102.667l38,42.667l7.333,0l0,-120.667l12.667,0l0,14l40.666,0l0,-14l12,0l0,123.334l13.334,0l0,10.666l27.333,0l0,-11.333l13.333,0l0,-114.667l24,0l0,-11.333l23.334,0l0,53.333l6,4.667l31.333,0l6,-6l0,-63.333l16.667,0l0,-36.667l16,0l0,-36.667l0,-63.333l-620,0z"
+                fill="rgba(255,255,255,0.3)" fill-rule="nonzero" id="svg_132" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">2683802965068406</string>
+    <string name="fb_login_protocol_scheme">fb2683802965068406</string>
+    <string name="flutter_downloader_notification_started">Download started</string>
+    <string name="flutter_downloader_notification_in_progress">Download in progress</string>
+    <string name="flutter_downloader_notification_canceled">Download canceled</string>
+    <string name="flutter_downloader_notification_failed">Download failed</string>
+    <string name="flutter_downloader_notification_complete">Download complete</string>
+    <string name="flutter_downloader_notification_paused">Download paused</string>
+    <string name="default_notification_channel_id">one notification</string>
+
+</resources>

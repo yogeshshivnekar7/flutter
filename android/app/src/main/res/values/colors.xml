@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="colorPrimary">#404FB1</color>-->
+
+    <color name="colorPrimary">#303f9f</color>
+    <color name="whats">#eb1c32</color>
+
+    <color name="colorPrimaryDark">#273386</color>
+    <color name="colorAccent">#135a8d</color>
+
+    <color name="color_F44336">#F44336</color>
+    <color name="color_E91E63">#E91E63</color>
+    <color name="color_673AB7">#673AB7</color>
+    <color name="color_3F51B5">#3F51B5</color>
+    <color name="color_03A9F4">#03A9F4</color>
+    <color name="color_2196F3">#2196F3</color>
+    <color name="color_009688">#009688</color>
+    <color name="color_FFC107">#FFC107</color>
+    <color name="color_CDDC39">#CDDC39</color>
+    <color name="color_4CAF50">#4CAF50</color>
+    <color name="color_111019">#111019</color>
+    <color name="color_A4AEF1">#A4AEF1</color>
+    <color name="button_color">#ff9800</color>
+    <color name="light_gray">#E6E9ED</color>
+    <color name="text_gray">#676767</color>
+
+    <color name="white">#ffffff</color>
+    <color name="legend_color">#B7B7B7</color>
+    <color name="visitor_color">#A844B7</color>
+    <color name="staff_color">#8CC355</color>
+    <color name="member_color">#F24537</color>
+    <color name="visitor_out">#8bc34a</color>
+    <color name="visitor_max_time_cross">#f44336</color>
+    <!--
+
+
+    -->
+    <color name="visitor_manageable_time">#757575</color>
+    <color name="gatekeeper_title_color">#757679</color>
+    <color name="trial_color">#25212121</color>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="darkblue" type="color">#FF0099CC</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <item name="darkorange" type="color">#FFFF8800</item>
+    <item name="darkred" type="color">#FFCC0000</item>
+    <item name="disable_button" type="color">#9fa8da</item>
+    <color name="warning_orange">#ef6c00</color>
+    <color name="divider">#12000000</color>
+    <color name="black">#000000</color>
+    <color name="primary_text_material_dark">#000000</color>
+    <color name="text_color_black_87">#a8000000</color>
+    <color name="text_color_black_54">#54000000</color>
+    <color name="progressbar_back">#f0ffffff</color>
+    <color name="primary_black_color">#DE000000</color>
+
+
+</resources>
